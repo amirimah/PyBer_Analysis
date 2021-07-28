@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Purpose
-
+The purpose of this project is to summarize ride-sharing data by different city types: urban, suburban and rural. Additionally, multiple-line graph is created to show the total weekly fares for each city type and business recommendation is given for addressing any disparities among the city types.
 ## Results
 It can be seen that total fare for Urban City Types is largest among different city types, while total fare for Rural city type is smallest from January- April 2019. 
 
