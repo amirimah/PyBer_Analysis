@@ -10,3 +10,10 @@ Additionally, the number of drivers in Urban city type is much larger than rural
 
 
 ## Summary
+Based on the graphs and tables created in this project, the following recommendations are given to CEO:  
+    
+1- The CEO should encourage people in urban areas to use PyBer more. This way more people would use PyBer and the company as well as drivers would make more profit.  
+
+2- The CEO can encourage drivers in Urban city types to move to rural areas or suburban areas. This way, more drivers would be available in rural areas and the dirvers would probably make more money since Average Fare per Driver is about 3 times higher in rural areas.  
+  
+3- Based on the results, it can be seen that there are many drivers in Urban areas, while Average Fare for Driver is smallest in this city type. CEO can cut the number of drivers or make it harder for new drivers to join the drivers. This way, the total number of drivers would decrease and Average Fare per Driver would increase. Therefore, the drivers would make more money.  
